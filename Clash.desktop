@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Exec=[path to your clash folder]/cfw
+Name=Clash
+Icon=[path to your clash icon]/logo.png
