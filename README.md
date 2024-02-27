@@ -3,6 +3,10 @@ open clash as a desktop application
 
 ## How
 modify the path in `Clash.desktop`
+```
+Exec=[path to your clash folder]/cfw
+Icon=[path to your clash icon]/logo.png
+```
 
 copy the file `Clash.desktop` to `~/.local/share/applications` for user-wide
 ```
